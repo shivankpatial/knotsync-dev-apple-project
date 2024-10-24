@@ -28,4 +28,4 @@ This is a clone of the official [Apple AirPods Pro](https://www.apple.com/in/air
 
 - GitHub - [@shivankpatial](https://github.com/shivankpatial/)
 
-- LinkedIn - [@anushka-chauhan](https://www.linkedin.com/in/shivank-patial-99710a317/)
+- LinkedIn - [@shivank-patial](https://www.linkedin.com/in/shivank-patial-99710a317/)
